@@ -1,0 +1,26 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status,
+#detected {
+    font-size: 18px;
+}
+
+canvas {
+    border: 5px solid white;
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+#note {
+    font-size: 18px;
+}
